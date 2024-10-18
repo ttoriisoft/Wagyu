@@ -1,2 +1,2 @@
 # Wagyu
-Ai stock market analysis app for Ubuntu
+Stock market analysis with AI for Ubuntu
